@@ -92,7 +92,7 @@ nav a:not(:first-child) {
 }
 
 #overlay {
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   text-align: center;
   z-index: 2;
